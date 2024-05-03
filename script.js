@@ -14,5 +14,5 @@ function openCrate() {
 
 function redirectToClaim() {
   // Redirect to the claim page
-  window.location.href = "claim_coins.html";
+  window.location.href = "https://smrturl.co/o/595373/53177516?s1=750";
 }
